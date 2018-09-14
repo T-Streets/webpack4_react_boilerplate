@@ -1,7 +1,7 @@
 # webpack4_react_boilerplate
 
 Custom React Boiler plate configured using Webpack4 <br>
-SASS compatible
+SCSS compatible
 
 Run with:<br>
 npm install<br>
